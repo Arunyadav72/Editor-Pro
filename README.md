@@ -2,26 +2,8 @@
 
 ### *Professional Rich Text Editor with AI, Voice, and Enterprise Features*
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/your-repo)
 [![PHP](https://img.shields.io/badge/PHP-7.4+-777BB4.svg)](https://php.net)
 [![MySQL](https://img.shields.io/badge/MySQL-5.7+-4479A1.svg)](https://mysql.com)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-
-## 📌 Quick Navigation
-
-- [Demo](#-demo)
-- [Features](#-features)
-- [Installation](#-installation)
-- [Screenshots](#-screenshots)
-- [Configuration](#-configuration)
-- [Usage Guide](#-usage-guide)
-- [API Reference](#-api-reference)
-- [Troubleshooting](#-troubleshooting)
-- [FAQ](#-faq)
-- [Roadmap](#-roadmap)
-- [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 

@@ -7,16 +7,6 @@
 
 ---
 
-## 🎯 Demo
-
-**Live Demo:** [https://demo.ultimate-editor.com](https://demo.ultimate-editor.com)
-
-**Admin Access:** (for testing)
-- Username: `demo@example.com`
-- Password: `demo123`
-
----
-
 ## ✨ Features
 
 ### Core Editor Features
